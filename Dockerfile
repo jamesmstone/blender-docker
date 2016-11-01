@@ -1,6 +1,6 @@
 
 FROM	alpine:latest
-LABEL	authors	"Isaac \"Ike\" Arias <ikester@gmail.com>,James Stone"
+LABEL	authors="Isaac \"Ike\" Arias <ikester@gmail.com>,James Stone"
 
 RUN	apk add --no-cache \
 	--update \
